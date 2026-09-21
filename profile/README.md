@@ -17,13 +17,11 @@ O [encurtar.link](https://encurtar.link/) transforma URLs compridas em links cur
 ## Ferramentas
 
 - [Encurtador de link](https://encurtar.link/)
-- [Gerador de link do WhatsApp](https://encurtar.link/gerador-de-link-do-whatsapp/)
-- [Verificador de link](https://encurtar.link/verificar-se-um-link-e-seguro/)
-- [Denunciar um link](https://encurtar.link/denunciar-link/)
+- [Desencurtador de link](https://encurtar.link/desencurtador-de-link-online/)
 
 ## Suporte e segurança
 
-Encontrou um link do encurtar.link usado em fraude, spam ou malware? Envie o endereço curto completo para [contato@encurtar.link](mailto:contato@encurtar.link) ou use o [formulário de denúncia](https://encurtar.link/denunciar-link/). Denúncias são analisadas em até 24 horas.
+Encontrou um link do encurtar.link usado em fraude, spam ou malware? Envie o endereço curto completo para [contato@encurtar.link](mailto:contato@encurtar.link) ou use o formulário de denúncia. Denúncias são analisadas em até 24 horas.
 
 - [Contato](https://encurtar.link/contato/)
 - [Termos de Uso](https://encurtar.link/termos-de-uso/)

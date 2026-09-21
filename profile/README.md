@@ -18,6 +18,7 @@ O [encurtar.link](https://encurtar.link/) transforma URLs compridas em links cur
 
 - [Encurtador de link](https://encurtar.link/)
 - [Desencurtador de link](https://encurtar.link/desencurtador-de-link-online/)
+- [Encurtador de link que paga](https://encurtar.link/como-ganhar-dinheiro-com-encurtador-de-link/)
 
 ## Suporte e segurança
 
